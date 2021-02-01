@@ -1,0 +1,179 @@
+.div1{
+    margin-left:300px ;
+    margin-top: -70px;
+    
+   
+}
+.m1{
+    background-color: #rgba(0,0,0,.1);
+}
+.div2{
+    margin-left:300px ;
+    margin-top: -50px;
+}
+.nav-link{
+    font-size:small ;
+    font-weight: bold;
+    color: black;
+}
+.navbar-nav{
+    color:black
+
+}
+#d2{
+    width:1000px;
+    height:20px;
+    
+    margin-top: 20px;
+}
+.address{
+    
+}
+.footer{
+    background-color: rgb(20, 19, 19);
+    height:px;
+    width:100%;
+    margin-top:100px
+}
+.p1,.p2,.p3{
+    color:white;
+}
+.cr{
+    width:100%;
+    height:400px;
+}
+.c
+}
+
+.foot{
+    color:white;
+    width:0%
+}
+.career{
+    padding-left :140px
+}
+#pp{
+    color:#ccc; 
+    padding-left :20px
+  }
+.welcome{
+    width: 100%;
+    height:40px
+}
+.marq{
+    color:brown;
+}
+.footcover{
+   height:400px;
+    width:100%;
+    margin-top:50px;
+   
+   
+}
+.foot1{
+   width: 100%; 
+   background-color: rgb(34, 31, 31);
+}
+
+.foot2{
+        width: 100%;
+        background-color: black;
+        height:100px;
+        padding-top:5px
+}
+.bg-grey {
+    color: #f6f6f6;
+  }
+  .about{
+    color: #f6f6f6;
+    padding-left:5px;
+  }
+  .visit{
+    color: #f6f6f6;
+  }
+  .hi{
+      height:300px
+  }
+  .follow{
+      padding-right: 20px;
+  }
+  ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+
+.social-network a.icoRss:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoFacebook:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoTwitter:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoGoogle:hover {
+	background-color:#33ccff;}
+.social-network a.icoVimeo:hover {
+	background-color:#33ccff;}
+.social-network a.icoLinkedin:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+	color:#44BCDD;
+}
+
+.social-circle li a {
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius:50%;
+	text-align:center;
+	width: 20px;
+	height: 20px;
+	font-size:small;
+	background-color: #D3D3D3;
+}
+.social-circle li i {
+	margin:0;
+	line-height:px;
+	text-align: center;
+}
+
+.social-circle li a:hover i, .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.social-circle i {
+	color: #fff;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+	transition: all 0.8s;
+}
+.s1{
+
+    padding-bottom: 40px;
+}
+.one{
+    font-size: small;
+}
